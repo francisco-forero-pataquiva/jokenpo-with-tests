@@ -11,7 +11,7 @@ def test_get_winner():
 
 def test_get_winner_exception():
     with pytest.raises(KeyError):
-        get_winner("Rock", "Rock")
+        get_winner("Rock", "Test")
 
 
 def test_rules():

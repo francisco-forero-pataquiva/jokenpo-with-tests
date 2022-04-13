@@ -1,5 +1,7 @@
 # Jokenpo with Tests
 
+![Tests](https://github.com/https://github.com/francisco-forero-pataquiva/jokenpo-with-tests/actions/workflows/test_pipeline.yml/badge.svg)
+
 ## About 
 
 This project uses a Jokenpo Python script to test automated testing using GitHub Actions. 

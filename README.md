@@ -1,6 +1,6 @@
 # Jokenpo with Tests
 
-![Tests](https://github.com/francisco-forero-pataquiva/jokenpo-with-tests/actions/workflows/test_pipeline.yml/badge.svg)
+[![Tests](https://github.com/francisco-forero-pataquiva/jokenpo-with-tests/actions/workflows/test_pipeline.yml/badge.svg?branch=main)]
 
 ## About 
 
